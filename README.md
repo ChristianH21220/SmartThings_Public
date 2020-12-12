@@ -1,2 +1,2 @@
 # SmartThings_Public
-Device Hanlder & SmartApps for SmarThings
+Device Handler & SmartApps for SmartThings
