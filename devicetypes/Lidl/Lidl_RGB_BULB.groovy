@@ -38,7 +38,10 @@ metadata {
 
 	//Lidl RGB Bulb E14   
         fingerprint profileId: "0104", inClusters: "0000,0003,0004,0005,0006,0008,0300,1000", outClusters: "000A, 0019", manufacturer: "_TZ3000_odygigth", model: "TS0505A", deviceJoinName: "Lidl RGBW Bulb", mnmn: "SmartThings", vid: "generic-rgbw-color-bulb-2000K-6500K"
-
+	//Lidl Led Strip
+	fingerprint profileId: "0104", inClusters: "0000,0003,0004,0005,0006,0008,0300,1000", outClusters: "0019,000A", manufacturer: "_TZ3000_riwp3k79", model: "TS0505A", deviceJoinName: "Lidl RGBW Led Strip"
+       //Lidl RGB Bulb E27
+	fingerprint profileId: "0104", inClusters: "0000,0003,0004,0005,0006,0008,0300,1000", outClusters: "0019,000A", manufacturer: "_TZ3000_dbou1ap4", model: "TS0505A", deviceJoinName: "Lidl RGBW Bulb", mnmn: "SmartThings", vid: "generic-rgbw-color-bulb-2000K-6500K"   
     }
 
     // UI tile definitions
