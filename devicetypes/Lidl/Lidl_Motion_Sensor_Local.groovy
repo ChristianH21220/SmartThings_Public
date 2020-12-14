@@ -15,7 +15,7 @@
  */
 
 metadata {
-	definition (name: "Lidl Motion Sensor Local", namespace: "christianH21220", author: "ChristianH21220", ocfDeviceType: "x.com.st.d.sensor.motion", mnmn: "SmartThings", vid: "generic-motion-2", runLocally: true, minHubCoreVersion: '000.017.0012', executeCommandsLocally: true) {
+	definition (name: "Lidl Motion Sensor Local", namespace: "christianH21220", author: "LAMS144ai", ocfDeviceType: "x.com.st.d.sensor.motion", mnmn: "SmartThings", vid: "generic-motion-2", runLocally: true, minHubCoreVersion: '000.017.0012', executeCommandsLocally: true) {
 
 		capability "Motion Sensor"
 		capability "Configuration"
