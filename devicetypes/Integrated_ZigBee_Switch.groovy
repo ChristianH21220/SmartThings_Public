@@ -181,6 +181,7 @@ metadata {
         
          // LIDL
          fingerprint endpointId: "01", profileId: "0104", deviceId: "010A", inClusters: "0000, 0003, 0004, 0005, 0006", outClusters: "000A, 0019", manufacturer: "_TZ3000_1obwwnmq", model: "TS011F", deviceJoinName: "Lidl Strip Plug 1"
+         fingerprint endpointId: "01", profileId: "0104", deviceId: "010A", inClusters: "0000, 0003, 0004, 0005, 0006", outClusters: "000A, 0019", manufacturer: "_TZ3000_vzopcetz", model: "TS011F", deviceJoinName: "Lidl Strip Plug 1"
  }
 
     preferences {
