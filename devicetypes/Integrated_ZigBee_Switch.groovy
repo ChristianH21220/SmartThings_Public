@@ -17,8 +17,9 @@
  *
  *  author : woobooung@gmail.com 
  */
-public static String version() { return "v0.0.27a.20201219_Lidl_Mod" }
+public static String version() { return "v0.0.27b.20201220_Lidl_Mod" }
 /*
+ *   2020/12/19 >>> v0.0.27b_Lid Mod - Add second Version of Lidl Power Strip (by christianH21220)
  *   2020/12/19 >>> v0.0.27a_Lid Mod - Add Lidl Power Strip (by christianH21220)
  *   2020/12/13 >>> v0.0.27 - Add Tuya 4Gang switch(by bubibuhome@gmail.com)
  *   2020/12/11 >>> v0.0.26 - Add Tuya moes inner 2Gang switch(Zigbee+rf)
