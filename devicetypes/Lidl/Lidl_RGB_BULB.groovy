@@ -230,7 +230,7 @@ def setGenericName(value){
     }
 }
 
-def setLevel(value) {
+def setLevel(value, rate=0) {
     zigbee.setLevel(value)
 }
 
